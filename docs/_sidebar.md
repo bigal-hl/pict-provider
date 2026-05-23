@@ -9,9 +9,9 @@
 
 - Retold Ecosystem
 
-  - [Pict](/pict/pict/)
-  - [Pict Application](/pict/pict-application/)
-  - [Pict View](/pict/pict-view/)
-  - [Fable](/fable/fable/)
-  - [Fable Service Base](/fable/fable-serviceproviderbase/)
-  - [Indoctrinate](/utility/indoctrinate/)
+  - [Pict](https://stevenvelozo.github.io/pict/)
+  - [Pict Application](https://stevenvelozo.github.io/pict-application/)
+  - [Pict View](https://stevenvelozo.github.io/pict-view/)
+  - [Fable](https://stevenvelozo.github.io/fable/)
+  - [Fable Service Base](https://stevenvelozo.github.io/fable-serviceproviderbase/)
+  - [Indoctrinate](https://stevenvelozo.github.io/indoctrinate/)

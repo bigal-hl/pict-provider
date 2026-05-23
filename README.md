@@ -1,5 +1,7 @@
 # Pict Provider
 
+> **[&#9654; Read the Pict-Provider Documentation](https://stevenvelozo.github.io/pict-provider/)** &mdash; interactive docs with the full API reference.
+
 The base class for Pict data providers. Extends [fable-serviceproviderbase](https://github.com/stevenvelozo/fable-serviceproviderbase) with lifecycle hooks for initialization, rendering, solving, and data loading, giving providers access to Pict's application state, logging, and template engine.
 
 [![Build Status](https://github.com/stevenvelozo/pict-provider/workflows/Pict-Provider/badge.svg)](https://github.com/stevenvelozo/pict-provider/actions)
