@@ -155,6 +155,6 @@ onInitialize()
 
 - [Lifecycle](lifecycle.md) -- Initialization, data load, solve, render, and save phases
 - [API Reference](api.md) -- Complete method and property documentation
-- [Pict Application](https://stevenvelozo.github.io/pict-application/) -- The application container that orchestrates providers
-- [Pict View](https://stevenvelozo.github.io/pict-view/) -- The rendering counterpart to providers
-- [Fable Service Base](https://stevenvelozo.github.io/fable-serviceproviderbase/) -- The parent class providers extend
+- [Pict Application](https://fable-retold.github.io/pict-application/) -- The application container that orchestrates providers
+- [Pict View](https://fable-retold.github.io/pict-view/) -- The rendering counterpart to providers
+- [Fable Service Base](https://fable-retold.github.io/fable-serviceproviderbase/) -- The parent class providers extend

@@ -1,10 +1,10 @@
 # Pict Provider
 
-> **[&#9654; Read the Pict-Provider Documentation](https://stevenvelozo.github.io/pict-provider/)** &mdash; interactive docs with the full API reference.
+> **[&#9654; Read the Pict-Provider Documentation](https://fable-retold.github.io/pict-provider/)** &mdash; interactive docs with the full API reference.
 
-The base class for Pict data providers. Extends [fable-serviceproviderbase](https://github.com/stevenvelozo/fable-serviceproviderbase) with lifecycle hooks for initialization, rendering, solving, and data loading, giving providers access to Pict's application state, logging, and template engine.
+The base class for Pict data providers. Extends [fable-serviceproviderbase](https://github.com/fable-retold/fable-serviceproviderbase) with lifecycle hooks for initialization, rendering, solving, and data loading, giving providers access to Pict's application state, logging, and template engine.
 
-[![Build Status](https://github.com/stevenvelozo/pict-provider/workflows/Pict-Provider/badge.svg)](https://github.com/stevenvelozo/pict-provider/actions)
+[![Build Status](https://github.com/fable-retold/pict-provider/workflows/Pict-Provider/badge.svg)](https://github.com/fable-retold/pict-provider/actions)
 [![npm version](https://badge.fury.io/js/pict-provider.svg)](https://badge.fury.io/js/pict-provider)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -182,11 +182,11 @@ Every provider instance has access to these properties:
 
 Pict Provider is the base class used throughout the Pict ecosystem:
 
-- [pict](https://github.com/stevenvelozo/pict) - UI framework
-- [pict-view](https://github.com/stevenvelozo/pict-view) - View base class (extends PictProvider)
-- [pict-template](https://github.com/stevenvelozo/pict-template) - Template engine
-- [fable](https://github.com/stevenvelozo/fable) - Application services framework
-- [fable-serviceproviderbase](https://github.com/stevenvelozo/fable-serviceproviderbase) - Service provider base class
+- [pict](https://github.com/fable-retold/pict) - UI framework
+- [pict-view](https://github.com/fable-retold/pict-view) - View base class (extends PictProvider)
+- [pict-template](https://github.com/fable-retold/pict-template) - Template engine
+- [fable](https://github.com/fable-retold/fable) - Application services framework
+- [fable-serviceproviderbase](https://github.com/fable-retold/fable-serviceproviderbase) - Service provider base class
 
 ## Testing
 
@@ -204,9 +204,9 @@ npm run coverage
 
 ## Related Packages
 
-- [pict](https://github.com/stevenvelozo/pict) - MVC application framework
-- [pict-view](https://github.com/stevenvelozo/pict-view) - View base class
-- [fable](https://github.com/stevenvelozo/fable) - Application services framework
+- [pict](https://github.com/fable-retold/pict) - MVC application framework
+- [pict-view](https://github.com/fable-retold/pict-view) - View base class
+- [fable](https://github.com/fable-retold/fable) - Application services framework
 
 ## License
 
