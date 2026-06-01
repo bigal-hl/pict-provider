@@ -1,6 +1,6 @@
 # Pict Provider
 
-> **[&#9654; Read the Pict-Provider Documentation](https://fable-retold.github.io/pict-provider/)** &mdash; interactive docs with the full API reference.
+> **[Read the Pict-Provider Documentation](https://fable-retold.github.io/pict-provider/)** - interactive docs with the full API reference.
 
 The base class for Pict data providers. Extends [fable-serviceproviderbase](https://github.com/fable-retold/fable-serviceproviderbase) with lifecycle hooks for initialization, rendering, solving, and data loading, giving providers access to Pict's application state, logging, and template engine.
 
