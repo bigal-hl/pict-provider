@@ -4,9 +4,7 @@
 
 The base class for Pict data providers. Extends [fable-serviceproviderbase](https://github.com/fable-retold/fable-serviceproviderbase) with lifecycle hooks for initialization, rendering, solving, and data loading, giving providers access to Pict's application state, logging, and template engine.
 
-[![Build Status](https://github.com/fable-retold/pict-provider/workflows/Pict-Provider/badge.svg)](https://github.com/fable-retold/pict-provider/actions)
-[![npm version](https://badge.fury.io/js/pict-provider.svg)](https://badge.fury.io/js/pict-provider)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[pict-provider on npm](https://www.npmjs.com/package/pict-provider) | [MIT License](LICENSE)
 
 ---
 
