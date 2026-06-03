@@ -8,21 +8,13 @@ Initialization runs once per provider lifetime. Calling `initialize()` or `initi
 
 ### Sync Flow
 
-```
-initialize()
-  ├── onBeforeInitialize()
-  ├── onInitialize()
-  └── onAfterInitialize()
-```
+<!-- bespoke diagram: edit diagrams/sync-flow.mmd or .hints.json, then: npx pict-renderer-graph build modules/pict/pict-provider/docs -->
+![Sync Flow](diagrams/sync-flow.svg)
 
 ### Async Flow
 
-```
-initializeAsync(fCallback)
-  ├── onBeforeInitializeAsync(fCallback)
-  ├── onInitializeAsync(fCallback)
-  └── onAfterInitializeAsync(fCallback)
-```
+<!-- bespoke diagram: edit diagrams/async-flow.mmd or .hints.json, then: npx pict-renderer-graph build modules/pict/pict-provider/docs -->
+![Async Flow](diagrams/async-flow.svg)
 
 The async flow uses the `Anticipate` service to run the three phases in series, waiting for each callback before proceeding.
 
